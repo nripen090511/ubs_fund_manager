@@ -1,0 +1,7 @@
+C:\Working\dev\UBS\FundManagerTests\bin\Debug\FundManagerTests.dll
+C:\Working\dev\UBS\FundManagerTests\bin\Debug\FundManagerTests.pdb
+C:\Working\dev\UBS\FundManagerTests\bin\Debug\FundManagerApp.exe
+C:\Working\dev\UBS\FundManagerTests\bin\Debug\FundManagerApp.pdb
+C:\Working\dev\UBS\FundManagerTests\obj\Debug\FundManagerTests.csprojResolveAssemblyReference.cache
+C:\Working\dev\UBS\FundManagerTests\obj\Debug\FundManagerTests.dll
+C:\Working\dev\UBS\FundManagerTests\obj\Debug\FundManagerTests.pdb

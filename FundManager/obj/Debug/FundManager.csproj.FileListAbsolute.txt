@@ -1,0 +1,14 @@
+C:\Working\dev\UBS\FundManager\bin\Debug\FundManagerApp.exe.config
+C:\Working\dev\UBS\FundManager\bin\Debug\FundManagerApp.exe
+C:\Working\dev\UBS\FundManager\bin\Debug\FundManagerApp.pdb
+C:\Working\dev\UBS\FundManager\obj\Debug\Views\StockView.g.cs
+C:\Working\dev\UBS\FundManager\obj\Debug\App.g.cs
+C:\Working\dev\UBS\FundManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManagerApp_MarkupCompile.cache
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManagerApp_MarkupCompile.lref
+C:\Working\dev\UBS\FundManager\obj\Debug\Views\StockView.baml
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManagerApp.g.resources
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManager.Properties.Resources.resources
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManager.csproj.GenerateResource.Cache
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManagerApp.exe
+C:\Working\dev\UBS\FundManager\obj\Debug\FundManagerApp.pdb

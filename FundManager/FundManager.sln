@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManager", "FundManager.csproj", "{2054C3ED-2A1C-4374-925D-223E6C6470D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManagerTests", "..\FundManagerTests\FundManagerTests.csproj", "{163359A5-8A1E-4376-99E0-DF63DA5C0BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2054C3ED-2A1C-4374-925D-223E6C6470D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2054C3ED-2A1C-4374-925D-223E6C6470D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2054C3ED-2A1C-4374-925D-223E6C6470D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2054C3ED-2A1C-4374-925D-223E6C6470D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163359A5-8A1E-4376-99E0-DF63DA5C0BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163359A5-8A1E-4376-99E0-DF63DA5C0BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163359A5-8A1E-4376-99E0-DF63DA5C0BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163359A5-8A1E-4376-99E0-DF63DA5C0BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
